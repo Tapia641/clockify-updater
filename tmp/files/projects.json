@@ -1,0 +1,227 @@
+{
+  "606dc591091d0775b50c07c4": {
+    "name": "210 WBX",
+    "billable": false,
+    "clientName": "ATT Mexico"
+  },
+  "61ae6e06533c607f47331c9f": {
+    "name": "210 WBX Per\u00fa",
+    "billable": true,
+    "clientName": "Telefonica LATAM"
+  },
+  "608ad74436345435a4a2a0a1": {
+    "name": "Administrative",
+    "billable": false,
+    "clientName": "Nokia - Internal"
+  },
+  "60744aa15c4d69697d640da6": {
+    "name": "API Scripting",
+    "billable": true,
+    "clientName": "Orocom Per\u00fa"
+  },
+  "609d831d80917a5470fbcd6f": {
+    "name": "Co-Ops Lab Building",
+    "billable": false,
+    "clientName": "Nokia - Internal"
+  },
+  "60ad240172b1b72df48bcbdf": {
+    "name": "Co-Ops Program",
+    "billable": false,
+    "clientName": "Nokia - Internal"
+  },
+  "61a63d0322aa1e29611aeba2": {
+    "name": "Engagement Manager",
+    "billable": true,
+    "clientName": "Nokia - Internal"
+  },
+  "60ad4f4772b1b72df48e3b0d": {
+    "name": "EVE-NG",
+    "billable": true,
+    "clientName": "Nokia - Internal"
+  },
+  "60900d70c8a57953763f6d71": {
+    "name": "Health Check",
+    "billable": true,
+    "clientName": "Nokia - Internal"
+  },
+  "6082d714d2fe105c8dcef79c": {
+    "name": "Holiday",
+    "billable": true,
+    "clientName": "Nokia - Internal"
+  },
+  "608ad7167405356061495fb0": {
+    "name": "Internal Meetings",
+    "billable": true,
+    "clientName": "Nokia - Internal"
+  },
+  "6070841af455dc1737d354b7": {
+    "name": "Kanata Lab",
+    "billable": false,
+    "clientName": "Nokia - Internal"
+  },
+  "60bfb66d1007695d25ce76ee": {
+    "name": "Magenta Monitoring POC",
+    "billable": true,
+    "clientName": "T-Mobile"
+  },
+  "610c0a56545f043258408d8b": {
+    "name": "MiniEPC - Arauca",
+    "billable": true,
+    "clientName": "AMX Colombia"
+  },
+  "6081bf3d33c9f53b5dc380c6": {
+    "name": "Monitoring",
+    "billable": true,
+    "clientName": "AMX Colombia"
+  },
+  "609d831380917a5470fbc578": {
+    "name": "Monitoring Project",
+    "billable": true,
+    "clientName": "Nokia - Internal"
+  },
+  "609d831d80917a5470fbcdc5": {
+    "name": "NNCS Program",
+    "billable": true,
+    "clientName": "Charter"
+  },
+  "6082d758d2fe105c8dcefa86": {
+    "name": "Nokia EDU - Course",
+    "billable": true,
+    "clientName": "Nokia - Internal"
+  },
+  "609d831280917a5470fbc46a": {
+    "name": "Nuage Health",
+    "billable": true,
+    "clientName": "Nokia - Internal"
+  },
+  "609d831580917a5470fbc730": {
+    "name": "Paid Time Off",
+    "billable": true,
+    "clientName": "Nokia - Internal"
+  },
+  "607de55077926d7825d594f3": {
+    "name": "PTO",
+    "billable": true,
+    "clientName": "Nokia - Internal"
+  },
+  "60ad294f72b1b72df48c1ead": {
+    "name": "Quoting Tool",
+    "billable": false,
+    "clientName": "Nokia - Internal"
+  },
+  "60ad4a94215fef1f3a413e2e": {
+    "name": "Resource Allocation Dashboard",
+    "billable": false,
+    "clientName": "Nokia - Internal"
+  },
+  "606cf7c14f36e30ccaeeb2b5": {
+    "name": "SD-WAN",
+    "billable": true,
+    "clientName": "Orocom Per\u00fa"
+  },
+  "606cf7f9dda0d336c60253f3": {
+    "name": "SD-WAN",
+    "billable": true,
+    "clientName": "Telefonica LATAM"
+  },
+  "606dc4d3c097445a7cc68f64": {
+    "name": "SD-WAN",
+    "billable": true,
+    "clientName": "AMX Colombia"
+  },
+  "60900c7a2b299c6bb6f9b60f": {
+    "name": "SD-WAN",
+    "billable": true,
+    "clientName": "YOFC Per\u00fa"
+  },
+  "609010572b299c6bb6f9f949": {
+    "name": "SD-WAN",
+    "billable": true,
+    "clientName": "GILAT Per\u00fa"
+  },
+  "60d0ebbe1761767d7ab7ca24": {
+    "name": "SD-WAN",
+    "billable": true,
+    "clientName": "AMX Argentina"
+  },
+  "606db0bc4af7115373cd918d": {
+    "name": "SD-WAN and SDN",
+    "billable": true,
+    "clientName": "Multiva Mexico"
+  },
+  "609005092b299c6bb6f93589": {
+    "name": "SDN",
+    "billable": true,
+    "clientName": "Tivit"
+  },
+  "609d831480917a5470fbc612": {
+    "name": "SDN",
+    "billable": true,
+    "clientName": "Verizon"
+  },
+  "609d831280917a5470fbc4c0": {
+    "name": "SDN CATS",
+    "billable": true,
+    "clientName": "Verizon"
+  },
+  "60708fc0fd1fb82c66ce8a09": {
+    "name": "SR Linux",
+    "billable": false,
+    "clientName": "Nokia - Internal"
+  },
+  "6165961fdba08a5e150b17bc": {
+    "name": "SR Linux POC",
+    "billable": true,
+    "clientName": "ATT Mexico"
+  },
+  "60aea42c72b1b72df49808d9": {
+    "name": "SuperCore",
+    "billable": true,
+    "clientName": "Verizon"
+  },
+  "606cf7af4f36e30ccaeeb252": {
+    "name": "Telco Cloud",
+    "billable": true,
+    "clientName": "AMX Colombia"
+  },
+  "60744bc8c416cc092ccd3cf0": {
+    "name": "Telco Cloud",
+    "billable": true,
+    "clientName": "AMX Argentina"
+  },
+  "609d831080917a5470fbc2d6": {
+    "name": "Telco Cloud Colombia",
+    "billable": true,
+    "clientName": "AMX Colombia"
+  },
+  "606df1a8cff84c0ddd33909c": {
+    "name": "Training",
+    "billable": false,
+    "clientName": "Nokia - Internal"
+  },
+  "60ad497c0ecd812af6d154cd": {
+    "name": "Turnkey Upgrade",
+    "billable": true,
+    "clientName": "Telus"
+  },
+  "60b7fda3223953517d95805d": {
+    "name": "University Course Initiative",
+    "billable": false,
+    "clientName": "Nokia - Internal"
+  },
+  "60705db5c38bd515ecf10785": {
+    "name": "VNS Workshop",
+    "billable": true,
+    "clientName": "Telefonica LATAM"
+  },
+  "61e6f9097c5e88316ebab860": {
+    "name": "White Label",
+    "billable": true,
+    "clientName": "Nokia - Internal"
+  },
+  "61294a29fd8ed634e0e5a490": {
+    "name": "Whitelabel SD-WAN",
+    "billable": true,
+    "clientName": "Telecom Argentina"
+  }
+}

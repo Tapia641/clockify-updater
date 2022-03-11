@@ -1,0 +1,221 @@
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb3a5412dc8100e0600e2', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb425412dc8100e0601af', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb4442e89dc1efc39e368', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb45c2e89dc1efc39e36b', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb467412dc8100e0601be', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb477412dc8100e0601c1', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb496412dc8100e0601c5', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb4ca2e89dc1efc39e37e', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb4f2412dc8100e060275', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb5102e89dc1efc39e452', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb8472e89dc1efc39e66c', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb910412dc8100e060636', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb9302e89dc1efc39e7ce', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb94a412dc8100e060640', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 None
+INFO:[{'id': '622b7f2eaff59210cdcfb9d8', 'description': 'Servicio de Operación Asistida TelcoCloud Claro Colombia', 'tagIds': ['615f1096dba08a5e15e146dd'], 'userId': '622a472d2d138a54ad97bcb3', 'billable': True, 'taskId': '622b7f2baff59210cdcfb97e', 'projectId': '606cf7af4f36e30ccaeeb252', 'timeInterval': {'start': '2022-03-11T16:56:14Z', 'end': '2022-03-11T16:57:14Z', 'duration': 'PT1M'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622aa4f62e89dc1efc38b3b5', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622ab025412dc8100e04e7da', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622ab0412e89dc1efc38c8b1', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622ab372412dc8100e04ea7b', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622ab3872e89dc1efc38cb2d', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622ab3a12e89dc1efc38cb30', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb168412dc8100e05ff79', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb3a5412dc8100e0600e2', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb425412dc8100e0601af', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb4442e89dc1efc39e368', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb45c2e89dc1efc39e36b', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb467412dc8100e0601be', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb477412dc8100e0601c1', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb496412dc8100e0601c5', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb4ca2e89dc1efc39e37e', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb4f2412dc8100e060275', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb5102e89dc1efc39e452', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb8472e89dc1efc39e66c', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb910412dc8100e060636', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb9302e89dc1efc39e7ce', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb94a412dc8100e060640', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}]
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb966412dc8100e060647', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 None
+INFO:[{'id': '622b7f2eaff59210cdcfb9d8', 'description': 'Servicio de Operación Asistida TelcoCloud Claro Colombia', 'tagIds': ['615f1096dba08a5e15e146dd'], 'userId': '622a472d2d138a54ad97bcb3', 'billable': True, 'taskId': '622b7f2baff59210cdcfb97e', 'projectId': '606cf7af4f36e30ccaeeb252', 'timeInterval': {'start': '2022-03-11T16:56:14Z', 'end': '2022-03-11T16:57:14Z', 'duration': 'PT1M'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622aa4f62e89dc1efc38b3b5', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622ab025412dc8100e04e7da', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622ab0412e89dc1efc38c8b1', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622ab372412dc8100e04ea7b', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622ab3872e89dc1efc38cb2d', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622ab3a12e89dc1efc38cb30', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb168412dc8100e05ff79', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb3a5412dc8100e0600e2', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb425412dc8100e0601af', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb4442e89dc1efc39e368', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb45c2e89dc1efc39e36b', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb467412dc8100e0601be', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb477412dc8100e0601c1', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb496412dc8100e0601c5', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb4ca2e89dc1efc39e37e', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb4f2412dc8100e060275', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb5102e89dc1efc39e452', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb8472e89dc1efc39e66c', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb910412dc8100e060636', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb9302e89dc1efc39e7ce', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb94a412dc8100e060640', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}, {'id': '622bb966412dc8100e060647', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}]
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Setting entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 374
+INFO:{'id': '622bb9ec2e89dc1efc39e910', 'description': 'With API', 'tagIds': [], 'userId': '622a472d2d138a54ad97bcb3', 'billable': False, 'taskId': '60ae5bc5238c5634a43dba0f', 'projectId': '608ad74436345435a4a2a0a1', 'timeInterval': {'start': '2022-03-10T22:10:36Z', 'end': '2022-03-10T23:10:36Z', 'duration': 'PT1H'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
