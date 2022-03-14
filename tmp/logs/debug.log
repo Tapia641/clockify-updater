@@ -219,3 +219,2040 @@ DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
 DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
 DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
 DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering projects information from 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/projects HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:El ejemplo fue generado en Examples/Example.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/Example.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/Example.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 479
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 479
+INFO:{'message': 'JSON parse error: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token\n at [Source: (PushbackInputStream); line: 1, column: 255] (through reference chain: com.clockify.adapter.http.v1.timeentry.CreateTimeEntryRequest["tagIds"])', 'code': 3002}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 479
+INFO:{'message': 'JSON parse error: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token\n at [Source: (PushbackInputStream); line: 1, column: 255] (through reference chain: com.clockify.adapter.http.v1.timeentry.CreateTimeEntryRequest["tagIds"])', 'code': 3002}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 479
+INFO:{'message': 'JSON parse error: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token\n at [Source: (PushbackInputStream); line: 1, column: 255] (through reference chain: com.clockify.adapter.http.v1.timeentry.CreateTimeEntryRequest["tagIds"])', 'code': 3002}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 479
+INFO:{'message': 'JSON parse error: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token\n at [Source: (PushbackInputStream); line: 1, column: 255] (through reference chain: com.clockify.adapter.http.v1.timeentry.CreateTimeEntryRequest["tagIds"])', 'code': 3002}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 479
+INFO:{'message': 'JSON parse error: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token\n at [Source: (PushbackInputStream); line: 1, column: 255] (through reference chain: com.clockify.adapter.http.v1.timeentry.CreateTimeEntryRequest["tagIds"])', 'code': 3002}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 479
+INFO:{'message': 'JSON parse error: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token\n at [Source: (PushbackInputStream); line: 1, column: 255] (through reference chain: com.clockify.adapter.http.v1.timeentry.CreateTimeEntryRequest["tagIds"])', 'code': 3002}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 479
+INFO:{'message': 'JSON parse error: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token\n at [Source: (PushbackInputStream); line: 1, column: 255] (through reference chain: com.clockify.adapter.http.v1.timeentry.CreateTimeEntryRequest["tagIds"])', 'code': 3002}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 479
+INFO:{'message': 'JSON parse error: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token\n at [Source: (PushbackInputStream); line: 1, column: 255] (through reference chain: com.clockify.adapter.http.v1.timeentry.CreateTimeEntryRequest["tagIds"])', 'code': 3002}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 99
+INFO:{'message': "TAG with id a doesn't belong to WORKSPACE with id 606cc0734f36e30ccaec9c72", 'code': 501}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 479
+INFO:{'message': 'JSON parse error: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `java.util.ArrayList<java.lang.Object>` out of VALUE_STRING token\n at [Source: (PushbackInputStream); line: 1, column: 255] (through reference chain: com.clockify.adapter.http.v1.timeentry.CreateTimeEntryRequest["tagIds"])', 'code': 3002}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/Example.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/Example.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/Example.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/Example.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/MyEntries.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/MyEntries.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/MyEntries.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/MyEntries.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/MyEntries.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/MyEntries.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:{'id': '622cba982e89dc1efc3af866', 'description': 'Servicio de Operación Asistida TelcoCloud Claro Colombia', 'tagIds': ['615f1096dba08a5e15e146dd'], 'userId': '622a472d2d138a54ad97bcb3', 'billable': True, 'taskId': '622b7f2baff59210cdcfb97e', 'projectId': '606cf7af4f36e30ccaeeb252', 'timeInterval': {'start': '2022-03-11T16:56:14Z', 'end': '2022-03-11T16:57:14Z', 'duration': 'PT1M'}, 'workspaceId': '606cc0734f36e30ccaec9c72', 'isLocked': False, 'customFieldValues': []}
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 342
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 342
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 342
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/Example.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 2
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/Example.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 342
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 342
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/MyEntries.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 342
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 459
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/MyEntries.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 342
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 451
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 342
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 342
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 451
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 451
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 905
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 905
+INFO:The example was generated in Examples/MyEntries.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 902
+INFO:The example was generated in Examples/MyEntries.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 902
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: 
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 342
+ERROR:The following entry was not created: 
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: 
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: 
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: 
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: 
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 342
+ERROR:The following entry was not created: 
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 342
+ERROR:The following entry was not created: 
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: 
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 None
+INFO:Deleting entry in 622f42af412dc8100e09dd84...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42af412dc8100e09dd84/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 None
+INFO:Deleting entry in 622f42af412dc8100e09dd84...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42af412dc8100e09dd84/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 None
+INFO:Deleting entry in 622f42af412dc8100e09dd84...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42af412dc8100e09dd84/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622cce59412dc8100e07251c...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622cce59412dc8100e07251c/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f3c24412dc8100e09d5ff...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f3c24412dc8100e09d5ff/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42ae412dc8100e09dd80...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ae412dc8100e09dd80/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42ad412dc8100e09dd7c...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ad412dc8100e09dd7c/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42ac2e89dc1efc3dbf29...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ac2e89dc1efc3dbf29/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42ab412dc8100e09dd76...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ab412dc8100e09dd76/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42ab412dc8100e09dd72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ab412dc8100e09dd72/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42aa2e89dc1efc3dbf25...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42aa2e89dc1efc3dbf25/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42a9412dc8100e09dd6e...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a9412dc8100e09dd6e/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42a82e89dc1efc3dbf21...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a82e89dc1efc3dbf21/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42a72e89dc1efc3dbf1d...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a72e89dc1efc3dbf1d/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42a6412dc8100e09dd66...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a6412dc8100e09dd66/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42a5412dc8100e09dd62...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a5412dc8100e09dd62/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42a4412dc8100e09dd5e...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a4412dc8100e09dd5e/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42a4412dc8100e09dd5a...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a4412dc8100e09dd5a/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42a3412dc8100e09dd56...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a3412dc8100e09dd56/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42a2412dc8100e09dd52...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a2412dc8100e09dd52/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42a1412dc8100e09dd4e...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a1412dc8100e09dd4e/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42a02e89dc1efc3dbf13...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a02e89dc1efc3dbf13/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f429f412dc8100e09dd4a...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f429f412dc8100e09dd4a/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f429e2e89dc1efc3dbf0f...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f429e2e89dc1efc3dbf0f/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f429d412dc8100e09dd46...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f429d412dc8100e09dd46/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f429c2e89dc1efc3dbf07...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f429c2e89dc1efc3dbf07/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f429b2e89dc1efc3dbf03...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f429b2e89dc1efc3dbf03/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f429b412dc8100e09dd42...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f429b412dc8100e09dd42/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f429a2e89dc1efc3dbeff...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f429a2e89dc1efc3dbeff/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42992e89dc1efc3dbefb...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42992e89dc1efc3dbefb/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42982e89dc1efc3dbef7...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42982e89dc1efc3dbef7/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42972e89dc1efc3dbef3...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42972e89dc1efc3dbef3/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42962e89dc1efc3dbeef...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42962e89dc1efc3dbeef/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f4295412dc8100e09dd3e...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f4295412dc8100e09dd3e/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f4294412dc8100e09dd3a...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f4294412dc8100e09dd3a/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f4293412dc8100e09dd36...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f4293412dc8100e09dd36/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42922e89dc1efc3dbeeb...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42922e89dc1efc3dbeeb/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f4291412dc8100e09dd32...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f4291412dc8100e09dd32/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42902e89dc1efc3dbee7...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42902e89dc1efc3dbee7/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f428f412dc8100e09dd25...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f428f412dc8100e09dd25/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f428e412dc8100e09dd21...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f428e412dc8100e09dd21/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f428e2e89dc1efc3dbee1...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f428e2e89dc1efc3dbee1/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f428d412dc8100e09dd1d...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f428d412dc8100e09dd1d/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f428c2e89dc1efc3dbedd...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f428c2e89dc1efc3dbedd/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f428b412dc8100e09dd19...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f428b412dc8100e09dd19/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f428a412dc8100e09dd15...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f428a412dc8100e09dd15/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f4289412dc8100e09dd11...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f4289412dc8100e09dd11/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f42882e89dc1efc3dbed9...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42882e89dc1efc3dbed9/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f4287412dc8100e09dd0d...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f4287412dc8100e09dd0d/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f4287412dc8100e09dd09...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f4287412dc8100e09dd09/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f4286412dc8100e09dd03...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f4286412dc8100e09dd03/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Deleting entry in 622f4285412dc8100e09dcff...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f4285412dc8100e09dcff/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+INFO:None
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 None
+INFO:Deleting entry in 622f42af412dc8100e09dd84...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42af412dc8100e09dd84/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622cce59412dc8100e07251c...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622cce59412dc8100e07251c/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f3c24412dc8100e09d5ff...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f3c24412dc8100e09d5ff/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ae412dc8100e09dd80...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ae412dc8100e09dd80/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ad412dc8100e09dd7c...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ad412dc8100e09dd7c/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ac2e89dc1efc3dbf29...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ac2e89dc1efc3dbf29/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ab412dc8100e09dd76...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ab412dc8100e09dd76/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ab412dc8100e09dd72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ab412dc8100e09dd72/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42aa2e89dc1efc3dbf25...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42aa2e89dc1efc3dbf25/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a9412dc8100e09dd6e...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a9412dc8100e09dd6e/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a82e89dc1efc3dbf21...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a82e89dc1efc3dbf21/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a72e89dc1efc3dbf1d...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a72e89dc1efc3dbf1d/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a6412dc8100e09dd66...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a6412dc8100e09dd66/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a5412dc8100e09dd62...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a5412dc8100e09dd62/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a4412dc8100e09dd5e...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a4412dc8100e09dd5e/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a4412dc8100e09dd5a...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1//workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 None
+INFO:Deleting entry in 622f42af412dc8100e09dd84...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42af412dc8100e09dd84/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622cce59412dc8100e07251c...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622cce59412dc8100e07251c/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f3c24412dc8100e09d5ff...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f3c24412dc8100e09d5ff/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ae412dc8100e09dd80...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ae412dc8100e09dd80/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ad412dc8100e09dd7c...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ad412dc8100e09dd7c/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ac2e89dc1efc3dbf29...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ac2e89dc1efc3dbf29/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ab412dc8100e09dd76...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ab412dc8100e09dd76/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ab412dc8100e09dd72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42ab412dc8100e09dd72/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42aa2e89dc1efc3dbf25...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42aa2e89dc1efc3dbf25/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a9412dc8100e09dd6e...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a9412dc8100e09dd6e/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a82e89dc1efc3dbf21...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a82e89dc1efc3dbf21/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a72e89dc1efc3dbf1d...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a72e89dc1efc3dbf1d/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a6412dc8100e09dd66...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a6412dc8100e09dd66/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a5412dc8100e09dd62...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a5412dc8100e09dd62/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a4412dc8100e09dd5e...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a4412dc8100e09dd5e/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a4412dc8100e09dd5a...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a4412dc8100e09dd5a/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a3412dc8100e09dd56...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a3412dc8100e09dd56/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a2412dc8100e09dd52...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a2412dc8100e09dd52/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a1412dc8100e09dd4e...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a1412dc8100e09dd4e/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a02e89dc1efc3dbf13...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42a02e89dc1efc3dbf13/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f429f412dc8100e09dd4a...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f429f412dc8100e09dd4a/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f429e2e89dc1efc3dbf0f...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f429e2e89dc1efc3dbf0f/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f429d412dc8100e09dd46...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f429d412dc8100e09dd46/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f429c2e89dc1efc3dbf07...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f429c2e89dc1efc3dbf07/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f429b2e89dc1efc3dbf03...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f429b2e89dc1efc3dbf03/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f429b412dc8100e09dd42...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f429b412dc8100e09dd42/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f429a2e89dc1efc3dbeff...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f429a2e89dc1efc3dbeff/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42992e89dc1efc3dbefb...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42992e89dc1efc3dbefb/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42982e89dc1efc3dbef7...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42982e89dc1efc3dbef7/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42972e89dc1efc3dbef3...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42972e89dc1efc3dbef3/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42962e89dc1efc3dbeef...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42962e89dc1efc3dbeef/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f4295412dc8100e09dd3e...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f4295412dc8100e09dd3e/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f4294412dc8100e09dd3a...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f4294412dc8100e09dd3a/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f4293412dc8100e09dd36...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f4293412dc8100e09dd36/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42922e89dc1efc3dbeeb...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42922e89dc1efc3dbeeb/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f4291412dc8100e09dd32...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f4291412dc8100e09dd32/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42902e89dc1efc3dbee7...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f42902e89dc1efc3dbee7/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f428f412dc8100e09dd25...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f428f412dc8100e09dd25/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f428e412dc8100e09dd21...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f428e412dc8100e09dd21/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f428e2e89dc1efc3dbee1...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f428e2e89dc1efc3dbee1/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f428d412dc8100e09dd1d...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1//workspaces/622f428d412dc8100e09dd1d/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f428c2e89dc1efc3dbedd...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 None
+INFO:Deleting entry in 622f42af412dc8100e09dd84...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42af412dc8100e09dd84/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622cce59412dc8100e07251c...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622cce59412dc8100e07251c/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f3c24412dc8100e09d5ff...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f3c24412dc8100e09d5ff/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ae412dc8100e09dd80...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42ae412dc8100e09dd80/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ad412dc8100e09dd7c...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42ad412dc8100e09dd7c/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ac2e89dc1efc3dbf29...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42ac2e89dc1efc3dbf29/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ab412dc8100e09dd76...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42ab412dc8100e09dd76/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42ab412dc8100e09dd72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42ab412dc8100e09dd72/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42aa2e89dc1efc3dbf25...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42aa2e89dc1efc3dbf25/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a9412dc8100e09dd6e...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42a9412dc8100e09dd6e/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a82e89dc1efc3dbf21...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42a82e89dc1efc3dbf21/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a72e89dc1efc3dbf1d...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42a72e89dc1efc3dbf1d/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a6412dc8100e09dd66...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42a6412dc8100e09dd66/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a5412dc8100e09dd62...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42a5412dc8100e09dd62/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a4412dc8100e09dd5e...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42a4412dc8100e09dd5e/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a4412dc8100e09dd5a...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42a4412dc8100e09dd5a/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a3412dc8100e09dd56...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42a3412dc8100e09dd56/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a2412dc8100e09dd52...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42a2412dc8100e09dd52/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a1412dc8100e09dd4e...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42a1412dc8100e09dd4e/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42a02e89dc1efc3dbf13...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42a02e89dc1efc3dbf13/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f429f412dc8100e09dd4a...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f429f412dc8100e09dd4a/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f429e2e89dc1efc3dbf0f...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f429e2e89dc1efc3dbf0f/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f429d412dc8100e09dd46...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f429d412dc8100e09dd46/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f429c2e89dc1efc3dbf07...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f429c2e89dc1efc3dbf07/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f429b2e89dc1efc3dbf03...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f429b2e89dc1efc3dbf03/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f429b412dc8100e09dd42...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f429b412dc8100e09dd42/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f429a2e89dc1efc3dbeff...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f429a2e89dc1efc3dbeff/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42992e89dc1efc3dbefb...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42992e89dc1efc3dbefb/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42982e89dc1efc3dbef7...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42982e89dc1efc3dbef7/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42972e89dc1efc3dbef3...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42972e89dc1efc3dbef3/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f42962e89dc1efc3dbeef...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f42962e89dc1efc3dbeef/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f4295412dc8100e09dd3e...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f4295412dc8100e09dd3e/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f4294412dc8100e09dd3a...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "DELETE /api/v1/workspaces/622f4294412dc8100e09dd3a/time-entries/606cc0734f36e30ccaec9c72 HTTP/1.1" 403 0
+ERROR:Error with 606cc0734f36e30ccaec9c72  status: 403 
+INFO:None
+INFO:Deleting entry in 622f4293412dc8100e09dd36...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 None
+INFO:The example was generated in Examples/MyEntries.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 334
+ERROR:The following entry was not created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 450
+INFO:The example was generated in Examples/MyEntries.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 200 899
+INFO:The example was generated in Examples/MyEntries.csv
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 400 518
+ERROR:The following entry was not created: DESCRIPTION
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+INFO:Gathering user information...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "GET /api/v1/user HTTP/1.1" 200 1296
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia
+INFO:Adding entry information in 606cc0734f36e30ccaec9c72...
+DEBUG:Starting new HTTPS connection (1): api.clockify.me:443
+DEBUG:https://api.clockify.me:443 "POST /api/v1/workspaces/606cc0734f36e30ccaec9c72/user/622a472d2d138a54ad97bcb3/time-entries HTTP/1.1" 201 448
+INFO:The following entry was created: Servicio de Operación Asistida TelcoCloud Claro Colombia

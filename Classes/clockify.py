@@ -11,7 +11,7 @@ class Clockify:
     def __init__(self, key):
         self.DELAY = 1
         self.API_KEY = key
-        self.ENDPOINT = 'https://api.clockify.me/api/v1/'
+        self.ENDPOINT = 'https://api.clockify.me/api/v1'
         self.HEADERS = {'Content-Type': 'application/json', 'X-Api-Key': self.API_KEY}
 
     def get_user(self) -> Dict:
@@ -21,10 +21,10 @@ class Clockify:
         response = r.json()
         user = {}
         try:
-            user['id'] = response['id']
+            user['user_id'] = response['id']
             user['email'] = response['email']
             user['name'] = response['name']
-            user['workspace'] = response['activeWorkspace']
+            user['workspace_id'] = response['activeWorkspace']
             return user
         except KeyError:
             logging.info(
@@ -97,11 +97,13 @@ class Clockify:
         }
         r = requests.post(url, headers=self.HEADERS, data=json.dumps(data))
         response = r.json()
-        return response.status_code
+        return response
 
     def delete_time_entry(self, workspace_id: str, entry_id: str):
         logging.info(f"Deleting entry in {workspace_id}...")
         url = self.ENDPOINT + f'/workspaces/{workspace_id}/time-entries/{entry_id}'
         r = requests.delete(url, headers=self.HEADERS)
-        response = r.json()
-        return response.status_code
+        if r.status_code == 204:
+            logging.info(f"The entry {entry_id} was deleted")
+        else:
+            logging.error(f"Error with {entry_id}  status: {r.status_code} ")
