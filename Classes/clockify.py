@@ -20,12 +20,14 @@ class Clockify:
         r = requests.get(url, headers=self.HEADERS)
         response = r.json()
         user = {}
-        print(response)
         try:
             user['user_id'] = response['id']
             user['email'] = response['email']
             user['name'] = response['name']
             user['workspace_id'] = response['activeWorkspace']
+            user['timeZone'] = response['settings']['timeZone']
+            # user['hour'] = response['settings']['HOUR24']
+            # user['format'] = response['settings']['DD/MM/YYYY']
             return user
         except KeyError:
             logging.info(

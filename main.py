@@ -81,15 +81,15 @@ if __name__ == '__main__':
             workspace = clock.get_user()['workspace_id']
             user = clock.get_user()['user_id']
             for entry in entries:
-                # print(entry)
-                response = clock.add_new_entry(workspace_id=workspace, user_id=user, start=entry['start'],
-                                               end=entry['end'], billable=entry['billable'],
-                                               description=entry['description'], project_id=entry['projectId'],
-                                               task_id=entry['taskId'], tag_ids=entry['tagIds'])
-                if 'id' in response:
-                    logging.info(f'The following entry was created: {entry["description"]}')
-                else:
-                    logging.error(f'The following entry was not created: {entry["description"]}')
+                print(entry)
+                # response = clock.add_new_entry(workspace_id=workspace, user_id=user, start=entry['start'],
+                #                                end=entry['end'], billable=entry['billable'],
+                #                                description=entry['description'], project_id=entry['projectId'],
+                #                                task_id=entry['taskId'], tag_ids=entry['tagIds'])
+                # if 'id' in response:
+                #     logging.info(f'The following entry was created: {entry["description"]}')
+                # else:
+                #     logging.error(f'The following entry was not created: {entry["description"]}')
             # user = clock.get_user()
         # projects = clock.get_projects(user['workspace'])
         # clock.add_new_entry(user['workspace'], user['id'])
