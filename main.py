@@ -47,8 +47,6 @@ if __name__ == '__main__':
 
     if config is not None:
         parser = argparse.ArgumentParser()
-        parser.add_argument('--start', type=str, help='Fecha inicial')
-        parser.add_argument('--end', type=str, help='Fecha final')
         parser.add_argument('--load_entries', type=str, help='Carga las entradas desde un archivo CSV a Clockify.')
         parser.add_argument('--delete_all_entries', help='Borra todas tus entradas de clockify.',
                             action='store_true')
