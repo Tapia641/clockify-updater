@@ -20,6 +20,7 @@ class Clockify:
         r = requests.get(url, headers=self.HEADERS)
         response = r.json()
         user = {}
+        print(response)
         try:
             user['user_id'] = response['id']
             user['email'] = response['email']
