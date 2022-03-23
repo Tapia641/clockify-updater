@@ -7,7 +7,7 @@ class Files:
         pass
 
     @staticmethod
-    def create_template(path: str = 'examples/Clockify.xlsx', entries: dict = {}, tasks: dict = {},
+    def create_template(path: str = 'tmp/files/Clockify_Example.xlsx', entries: dict = {}, tasks: dict = {},
                         projects: dict = {}):
         # Example
         load = {'PROJECT_ID': [], 'DESCRIPTION': [], 'BILLABLE': [], 'TASK_ID': [], 'START': [],

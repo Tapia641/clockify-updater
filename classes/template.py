@@ -1,10 +1,11 @@
 # CREATE A TEMPLATE TO UPLOAD TO CLOCKIFY
 
 import csv
+
+import pandas as pd
+
 from classes.clockify import Clockify
 from datetime import datetime
-# import datetime
-
 from dateutil import tz
 
 from classes.files import Files
@@ -70,7 +71,7 @@ class Template:
             template['TASK_ID'].append(entry['taskId'])
             template['START'].append(start)
             template['END'].append(end)
-            template['TAGS_IDS'].append(entry['tagIds'])
+            template['TAGS_IDS'].append(*entry['tagIds'])
 
         return template
 
@@ -93,18 +94,6 @@ class Template:
         tasks_ = self.generate_tasks()
         Files.create_template(entries=entries_, projects=projects_, tasks=tasks_)
 
-    # def generate_entries(self):
-    #     user = self.USER.get_user()
-    #     entries = self.USER.get_entries(user['workspace_id'], user['user_id'])
-    #     template = self.HEADERS_ENTRIES
-    #     input_format = "%Y-%m-%dT%H:%M:%SZ"
-    #     for entry in entries:
-    #         start = entry['timeInterval']['start']
-    #         end = entry['timeInterval']['end']
-    #         template.append([entry['projectId'], entry['description'], entry['billable'], entry['taskId'],
-    #                          start, end, *entry['tagIds'][:]])
-    #     self.create_csv(template, "MyEntries")
-
     @staticmethod
     def create_csv(rows: list, name: str):
         with open(f'Examples/{name}.csv', 'w', newline='') as file:
@@ -113,52 +102,55 @@ class Template:
 
     def load_template(self, path_file: str):
         user = self.USER.get_user()
-        with open(f'{path_file}') as file:
-            csv_reader = csv.reader(file, delimiter=',')
-            entries = []
-            for row in csv_reader:
-                if not row[0] == "PROJECT_ID" and not row[0] == "":
-                    # Convert 3/11/2022 8:12 to 2022-03-11T16:56:14Z
-                    date_start = row[4].split(" ")[0].split("/")
-                    hour_start = row[4].split(" ")[1].split(":")
-                    date_end = row[5].split(" ")[0].split("/")
-                    hour_end = row[5].split(" ")[1].split(":")
+        df = pd.read_excel(path_file, sheet_name='LOAD_ENTRIES')
+        entries = []
+        for index, row in df.iterrows():
+            # print(row['START'], row['START'].strftime('%Y-%m-%dT%H:%M:%SZ'))
+            if '-' in str(row['START']):
+                # Convert 2022-03-11 8:12 to 2022-03-11T16:56:14Z
+                start = row['START'].strftime('%Y-%m-%dT%H:%M:%SZ')
+                end = row['END'].strftime('%Y-%m-%dT%H:%M:%SZ')
+            else:
+                # Convert 3/11/2022 8:12 to 2022-03-11T16:56:14Z
+                date_start = row[4].split(" ")[0].split("/")
+                hour_start = row[4].split(" ")[1].split(":")
+                date_end = row[5].split(" ")[0].split("/")
+                hour_end = row[5].split(" ")[1].split(":")
 
-                    start = datetime(int(date_start[2]), int(date_start[0]), int(date_start[1]),
-                                     int(hour_start[0]), int(hour_start[1]), 0)
-                    end = datetime(int(date_end[2]), int(date_end[0]), int(date_end[1]),
-                                   int(hour_end[0]), int(hour_end[1]), 0)
+                start = datetime(int(date_start[2]), int(date_start[0]), int(date_start[1]),
+                                 int(hour_start[0]), int(hour_start[1]), 0)
+                end = datetime(int(date_end[2]), int(date_end[0]), int(date_end[1]),
+                               int(hour_end[0]), int(hour_end[1]), 0)
 
-                    start = start.strftime('%Y-%m-%dT%H:%M:%SZ')
-                    end = end.strftime('%Y-%m-%dT%H:%M:%SZ')
+                start = start.strftime('%Y-%m-%dT%H:%M:%SZ')
+                end = end.strftime('%Y-%m-%dT%H:%M:%SZ')
 
-                    input_format = "%Y-%m-%dT%H:%M:%SZ"
-                    start = datetime.strptime(start, input_format)
-                    end = datetime.strptime(end, input_format)
+            input_format = "%Y-%m-%dT%H:%M:%SZ"
+            start = datetime.strptime(start, input_format)
+            end = datetime.strptime(end, input_format)
 
-                    # set zones
-                    from_zone = tz.gettz('UTC')
-                    to_zone = tz.gettz(user['timeZone'])
+            # set zones
+            from_zone = tz.gettz('UTC')
+            to_zone = tz.gettz(user['timeZone'])
 
-                    # Datetime from UTC by default
-                    start = start.replace(tzinfo=to_zone)
-                    end = end.replace(tzinfo=to_zone)
+            # Datetime from UTC by default
+            start = start.replace(tzinfo=to_zone)
+            end = end.replace(tzinfo=to_zone)
 
-                    # Convert time zones
-                    start = start.astimezone(from_zone)
-                    end = end.astimezone(from_zone)
+            # Convert time zones
+            start = start.astimezone(from_zone)
+            end = end.astimezone(from_zone)
 
-                    start = start.strftime('%Y-%m-%dT%H:%M:%SZ')
-                    end = end.strftime('%Y-%m-%dT%H:%M:%SZ')
-
-                    data = {
-                        "start": start,
-                        "end": end,
-                        "billable": row[2],
-                        "description": row[1],
-                        "projectId": row[0],
-                        "taskId": row[3],
-                        "tagIds": [row[6]]
-                    }
-                    entries.append(data)
+            start = start.strftime('%Y-%m-%dT%H:%M:%SZ')
+            end = end.strftime('%Y-%m-%dT%H:%M:%SZ')
+            data = {
+                "start": start,
+                "end": end,
+                "billable": row['BILLABLE'],
+                "description": row['DESCRIPTION'],
+                "projectId": row['PROJECT_ID'],
+                "taskId": row['TASK_ID'],
+                "tagIds": str(row['TAGS_IDS']).split(',')
+            }
+            entries.append(data)
         return entries

@@ -52,10 +52,6 @@ if __name__ == '__main__':
                             action='store_true')
         parser.add_argument('--generate_example', help='Genera un archivo CSV ejemplo para Clockify.',
                             action='store_true')
-        parser.add_argument('--generate_entries', help='Genera un archivo CSV con todas tus horas.',
-                            action='store_true')
-        parser.add_argument('--generate_pandas', help='Genera un archivo CSV con todas tus horas.',
-                            action='store_true')
         args = parser.parse_args()
 
         # Testing
@@ -65,14 +61,15 @@ if __name__ == '__main__':
         if args.generate_example:
             n = 50
             template.generate_example(n)
-            logging.info('The example was generated in examples/Example.csv')
+            logging.info('The example was generated in tmp/files/Example.csv')
 
-        if args.delete_all_entries:
+        if args.delete_all_entries: #BE CAREFUL
             user = clock.get_user()
             entries = clock.get_entries(user['workspace_id'], user['user_id'])
             for entry in entries:
                 response = clock.delete_time_entry(entry['id'], user['workspace_id'])
                 logging.info(response)
+            logging.info('All entries were deleted')
 
         if args.load_entries:
             entries = template.load_template(args.load_entries)
@@ -83,7 +80,7 @@ if __name__ == '__main__':
                                                end=entry['end'], billable=entry['billable'],
                                                description=entry['description'], project_id=entry['projectId'],
                                                task_id=entry['taskId'], tag_ids=entry['tagIds'])
-                if 'id' in response:
+                if response:
                     logging.info(f'The following entry was created: {entry["description"]}')
                 else:
                     logging.error(f'The following entry was not created: {entry["description"]}')

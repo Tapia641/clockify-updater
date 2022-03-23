@@ -118,8 +118,9 @@ class Clockify:
             "tagIds": tag_ids
         }
         r = requests.post(url, headers=self.HEADERS, data=json.dumps(data))
-        response = r.json()
-        return response
+        if r.status_code == 201:
+            return True
+        return False
 
     def delete_time_entry(self, workspace_id: str, entry_id: str):
         logging.info(f"Deleting entry in {workspace_id}...")
