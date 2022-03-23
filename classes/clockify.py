@@ -26,8 +26,6 @@ class Clockify:
             user['name'] = response['name']
             user['workspace_id'] = response['activeWorkspace']
             user['timeZone'] = response['settings']['timeZone']
-            # user['hour'] = response['settings']['HOUR24']
-            # user['format'] = response['settings']['DD/MM/YYYY']
             return user
         except KeyError:
             logging.info(
@@ -56,7 +54,7 @@ class Clockify:
     def get_workspaces(self):
         url = self.ENDPOINT + f'/workspaces'
         logging.info("Gathering workspaces information...")
-        r = requests.get(url, headers=self.API_KEY)
+        r = requests.get(url, headers=self.HEADERS)
         response = r.json()
         data_workspaces = {}
         try:
@@ -84,6 +82,27 @@ class Clockify:
             user_time_settings = user['settings']
             users[user_id] = [user_name, user_email, user_time_settings]
         return users
+
+    def get_all_tasks(self, workspace_id: str) -> Dict:
+        projects = self.get_projects(workspace_id)
+        tasks = []
+        for project_id in projects:
+            # GET /workspaces/{workspaceId}/projects/{projectId}/tasks
+            url = self.ENDPOINT + f'workspaces/{workspace_id}/projects/{project_id}/tasks'
+            logging.info(
+                f"Getting tasks information from the workspace: {workspace_id}.")
+            r = requests.post(url, headers=self.HEADERS)
+            response = r.json()
+            template = {}
+            if r.status_code == 200:
+                for task in response:
+                    template['id'] = task['id']
+                    template['name'] = task['name']
+                    template['project_id'] = task['projectId']
+                    template['billable'] = task['billable']
+                    template['status'] = task['status']
+                    tasks.append(template)
+        return tasks
 
     def add_new_entry(self, workspace_id: str, user_id: str, start, end, billable, description, project_id, task_id,
                       tag_ids):
