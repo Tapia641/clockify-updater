@@ -16,7 +16,7 @@ for this script, only you need to execute lo load hours similar to past weeks or
  pip install -r requirements.txt
 ```
 
-Configure the `config.yml`
+Configure the `config.yaml`
 
 ```
 API_KEY:

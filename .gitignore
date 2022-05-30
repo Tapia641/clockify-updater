@@ -4,3 +4,4 @@ tmp/
 examples/
 venv/
 classes/__pycache__
+configuration/__pycache__

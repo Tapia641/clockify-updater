@@ -86,4 +86,4 @@ if __name__ == '__main__':
                     else:
                         logging.error(f'The following entry was not created: {entry["description"]}')
         else:
-            logging.error("You need configure the file: configuration/config.yml")
+            logging.error("You need configure the file: configuration/config.yaml")
