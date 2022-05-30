@@ -55,32 +55,35 @@ if __name__ == '__main__':
         args = parser.parse_args()
 
         # Testing
-        clock = Clockify(config['API_KEY'])
-        template = Template(config['API_KEY'])
+        if config['API_KEY'] is not None:
+            clock = Clockify(config['API_KEY'])
+            template = Template(config['API_KEY'])
 
-        if args.generate_example:
-            n = 50
-            template.generate_example(n)
-            logging.info('The example was generated in tmp/files/Example.csv')
+            if args.generate_example:
+                n = 50
+                template.generate_example(n)
+                logging.info('The example was generated in tmp/files/Example.csv')
 
-        if args.delete_all_entries: #BE CAREFUL
-            user = clock.get_user()
-            entries = clock.get_entries(user['workspace_id'], user['user_id'])
-            for entry in entries:
-                response = clock.delete_time_entry(entry['id'], user['workspace_id'])
-                logging.info(response)
-            logging.info('All entries were deleted')
+            if args.delete_all_entries: #BE CAREFUL
+                user = clock.get_user()
+                entries = clock.get_entries(user['workspace_id'], user['user_id'])
+                for entry in entries:
+                    response = clock.delete_time_entry(entry['id'], user['workspace_id'])
+                    logging.info(response)
+                logging.info('All entries were deleted')
 
-        if args.load_entries:
-            entries = template.load_template(args.load_entries)
-            workspace = clock.get_user()['workspace_id']
-            user = clock.get_user()['user_id']
-            for entry in entries:
-                response = clock.add_new_entry(workspace_id=workspace, user_id=user, start=entry['start'],
-                                               end=entry['end'], billable=entry['billable'],
-                                               description=entry['description'], project_id=entry['projectId'],
-                                               task_id=entry['taskId'], tag_ids=entry['tagIds'])
-                if response:
-                    logging.info(f'The following entry was created: {entry["description"]}')
-                else:
-                    logging.error(f'The following entry was not created: {entry["description"]}')
+            if args.load_entries:
+                entries = template.load_template(args.load_entries)
+                workspace = clock.get_user()['workspace_id']
+                user = clock.get_user()['user_id']
+                for entry in entries:
+                    response = clock.add_new_entry(workspace_id=workspace, user_id=user, start=entry['start'],
+                                                end=entry['end'], billable=entry['billable'],
+                                                description=entry['description'], project_id=entry['projectId'],
+                                                task_id=entry['taskId'], tag_ids=entry['tagIds'])
+                    if response:
+                        logging.info(f'The following entry was created: {entry["description"]}')
+                    else:
+                        logging.error(f'The following entry was not created: {entry["description"]}')
+        else:
+            logging.error("You need configure the file: configuration/config.yml")

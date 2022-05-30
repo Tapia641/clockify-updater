@@ -16,6 +16,13 @@ for this script, only you need to execute lo load hours similar to past weeks or
  pip install -r requirements.txt
 ```
 
+Configure the `config.yml`
+
+```
+API_KEY:
+ENDPOINT: https://api.clockify.me/api/v1
+```
+
 # How to use it
 
 To generate one template example you can use the following command, and You will see one XLSX in **tmp/files/**:
