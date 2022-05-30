@@ -2,3 +2,5 @@ configuration/config.yaml
 .idea
 tmp/
 examples/
+venv/
+classes/__pycache__

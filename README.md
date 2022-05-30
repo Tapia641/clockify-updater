@@ -10,12 +10,16 @@ for this script, only you need to execute lo load hours similar to past weeks or
 
 # How to install
 
+```
+ python3 -m venv venv
+ source /venv/bin/activate
+ pip install -r requirements.txt
+```
+
 # How to use it
 
 To generate one template example you can use the following command, and You will see one XLSX in **tmp/files/**:
 
-``
-python main.py --generate_example
-``
+`python3 main.py --generate_example`
 
 # See detail information
